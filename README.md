@@ -1,5 +1,5 @@
 ### Hello there, My name is Min Lee 👋
-I am a Junior Frontend Developer looking to solve real world problems.
+I am a Frontend Developer looking to solve real world problems.
 
 [![Min's github stats](https://github-readme-stats.vercel.app/api?username=gyeongmin-lee)](https://github.com/anuraghazra/github-readme-stats)
 
