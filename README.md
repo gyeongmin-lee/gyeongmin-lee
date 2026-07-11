@@ -14,7 +14,7 @@ I play bass guitar on my free time.
 
 ### Stats
 
-[![Min's github stats](https://github-readme-stats.vercel.app/api?username=gyeongmin-lee)](https://github.com/anuraghazra/github-readme-stats)
+[![Min's github stats](https://github-stats-extended.vercel.app/api?username=gyeongmin-lee)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gyeongmin-lee/gyeongmin-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
